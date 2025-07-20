@@ -1,0 +1,1 @@
+<?php echo 'Welcome to Doctor Appointment Booking System'; ?>
