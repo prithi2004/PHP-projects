@@ -1,13 +1,33 @@
-# Doctor Appointment Booking System
+# 🏥 Doctor Appointment Booking System
 
-A PHP + MySQL web application to book and manage doctor appointments.
+A full-stack web application built using **PHP** and **MySQL** to manage appointments between patients and doctors. This system includes three panels: **Admin**, **Doctor**, and **Patient**, each with its own functionality.
 
-## Features
-- Admin, Doctor, and Patient Panels
-- Appointment booking system
-- MySQL Database
+---
 
-## Setup
-1. Import the SQL file into phpMyAdmin
-2. Update `database/config.php` with your DB credentials
-3. Run using XAMPP on localhost
+## 📸 Screenshot
+
+![Doctor Appointment Screenshot](sample-screenshot.png)
+
+---
+
+## 🚀 Features
+
+- 👨‍⚕️ Doctor Login/Dashboard
+- 🧑‍💼 Patient Registration and Appointment Booking
+- 🛠️ Admin Panel for Managing Users and Appointments
+- 🗂️ Clean folder structure and modular code
+- 💾 MySQL Database connection included
+
+---
+
+## 🔧 Tech Stack
+
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Backend**: PHP
+- **Database**: MySQL (via XAMPP)
+- **Tools**: VS Code, phpMyAdmin, GitHub
+
+---
+
+## 🧰 Folder Structure
+
