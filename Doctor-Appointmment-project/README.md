@@ -3,7 +3,6 @@
 A web-based Doctor Appointment Booking System developed using **PHP** and **MySQL**, allowing patients to book appointments, doctors to manage schedules, and admins to handle system settings.
 
 ---
-
 ## ✅ Features
 
 ### 👤 Patient Panel
