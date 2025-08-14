@@ -93,6 +93,5 @@ index.php
 Prithi B
 GitHub
 LinkedIn
-
 ⭐ Show Your Support
 If this project helped you, please ⭐ the repo and share it with others!
