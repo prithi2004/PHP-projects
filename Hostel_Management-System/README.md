@@ -16,7 +16,6 @@ A web-based Hostel Management System built with **PHP** and **MySQL**. It helps 
 - Allocate rooms
 - Manage payment and billing
 ---
-
 <img width="460" height="380" alt="image" src="https://github.com/user-attachments/assets/08f738f8-1263-4d12-a0ab-83f53f431243" />
 
 ## 🛠️ Technologies Used
