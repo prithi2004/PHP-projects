@@ -3,7 +3,6 @@
 A web-based Doctor Appointment Booking System developed using **PHP** and **MySQL**, allowing patients to book appointments, doctors to manage schedules, and admins to handle system settings.
 ---
 ## ✅ Features
-
 ### 👤 Patient Panel
 - Register/Login
 - Book appointments
@@ -71,7 +70,6 @@ Place the project folder inside htdocs (if using XAMPP).
 Start Apache and MySQL from the XAMPP control panel.
 
 Open browser and go to:
-
 perl
 Copy
 Edit
