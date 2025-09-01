@@ -8,7 +8,6 @@ A web-based Doctor Appointment Booking System developed using **PHP** and **MySQ
 - Book appointments
 - View booking history
 - Cancel or reschedule appointments
-
 ### 👨‍⚕️ Doctor Panel
 - Login to dashboard
 - View upcoming appointments
