@@ -18,7 +18,6 @@ A web-based Doctor Appointment Booking System developed using **PHP** and **MySQ
 - View all bookings
 - Manage specializations
 - System reports and controls
-
 ---
 <img width="488" height="200" alt="image" src="https://github.com/user-attachments/assets/35b37272-9748-40c6-b6aa-37a8500493ce" />
 
