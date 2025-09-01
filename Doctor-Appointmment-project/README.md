@@ -32,7 +32,6 @@ A web-based Doctor Appointment Booking System developed using **PHP** and **MySQ
 - 🔐 Session-based authentication
 
 ---
-
 ## ⚙️ How to Set Up Locally
 
 ### 1. Clone the Repository
