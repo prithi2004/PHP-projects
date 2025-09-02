@@ -17,7 +17,6 @@ A web-based Hostel Management System built with **PHP** and **MySQL**. It helps 
 <img width="460" height="380" alt="image" src="https://github.com/user-attachments/assets/08f738f8-1263-4d12-a0ab-83f53f431243" />
 
 ## 🛠️ Technologies Used
-
 - **Frontend**: HTML, CSS, Bootstrap
 - **Backend**: PHP
 - **Database**: MySQL
