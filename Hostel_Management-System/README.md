@@ -45,7 +45,6 @@ cd hostel-management-system
 /js
 /db.php
 index.php
-
 ---
 ## 🚀 How to Run the Project Locally
 
