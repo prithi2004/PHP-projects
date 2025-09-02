@@ -49,7 +49,6 @@ cd hostel-management-system
 index.php
 
 ---
-
 ## 🚀 How to Run the Project Locally
 
 ### 1. Clone the Repository
