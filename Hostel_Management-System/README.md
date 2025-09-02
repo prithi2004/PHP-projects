@@ -8,7 +8,6 @@ A web-based Hostel Management System built with **PHP** and **MySQL**. It helps 
 - Apply for hostel rooms
 - View allocated room details
 - Check payment status
-
 ### 🧑‍💼 Admin Panel
 - Admin login dashboard
 - Manage rooms (add/update/delete)
