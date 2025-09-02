@@ -83,7 +83,6 @@ http://localhost/hostel-management-system/
 Prithi B
 GitHub
 LinkedIn
-
 💡 Suggestions or Contributions?
 Feel free to open an issue or submit a pull request to improve the system.
 
