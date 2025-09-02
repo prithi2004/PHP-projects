@@ -74,7 +74,6 @@ $db = "hostel_db";
 Place the project folder in your web server's root directory (htdocs if using XAMPP).
 
 Start Apache and MySQL using XAMPP.
-
 Open your browser and go to:
 perl
 Copy
