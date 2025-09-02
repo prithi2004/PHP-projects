@@ -26,7 +26,6 @@ A web-based Hostel Management System built with **PHP** and **MySQL**. It helps 
 ## 📂 Folder Structure
 
 ---
-
 ## 🚀 How to Run the Project Locally
 
 ### 1. Clone the Repository
