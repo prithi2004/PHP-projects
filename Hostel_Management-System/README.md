@@ -23,7 +23,6 @@ A web-based Hostel Management System built with **PHP** and **MySQL**. It helps 
 - **Authentication**: Session-based login system
 
 ---
-
 ## 📂 Folder Structure
 
 ---
