@@ -4,7 +4,7 @@ A web-based Hostel Management System built with **PHP** and **MySQL**. It helps 
 
 ## 🎯 Features
 ### 👨‍🎓 Student Panel
-- Register/Login
+- Register/Login  
 - Apply for hostel rooms
 - View allocated room details
 - Check payment status
