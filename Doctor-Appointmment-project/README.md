@@ -14,7 +14,6 @@ A web-based Doctor Appointment Booking System developed using **PHP** and **MySQ
 - Manage availability
 
 
-
 ### 🛠️ Admin Panel
 - Manage doctors and patients
 - View all bookings
