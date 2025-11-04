@@ -18,6 +18,7 @@ Includes separate dashboards for **Admin**, **Doctor**, and **Patient**.
 1. Clone the repository  
    ```bash
    git clone https://github.com/prithi2004/Doctor-Appointment-System-PHP-MySQL.git
+   
 2.Move the folder to your XAMPP htdocs directory.
 
 3.Import database.sql in phpMyAdmin.
@@ -40,6 +41,16 @@ http://localhost/Doctor-Appointment-System-PHP-MySQL/
 - 🔐 Session-based authentication
 
 ---
+
+
+
+💬 Author
+
+👤 Prithi Babu
+📧 prithibabu2004@gmail.com
+💼 LinkedIn
+
+
 ## ⚙️ How to Set Up Locally
 
 ### 1. Clone the Repository
