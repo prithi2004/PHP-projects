@@ -1,24 +1,24 @@
-# 🏥 Doctor Appointment Booking System
-A web-based Doctor Appointment Booking System developed using **PHP** and **MySQL**, allowing patients to book appointments, doctors to manage schedules, and admins to handle system settings.
----
-## ✅ Features
-### 👤 Patient Panel
-- Register/Login
-- Book appointments
-- View booking history
-- Cancel or reschedule appointments
-### 👨‍⚕️ Doctor Panel
-- Login to dashboard
-- View upcoming appointments
-- Update appointment status
-- Manage availability
+# 💊 Doctor Appointment System (PHP + MySQL)
 
-### 🛠️ Admin Panel
-- Manage doctors and patients
-- View all bookings
-- Manage specializations
-- System reports and controls
+A complete doctor appointment booking system built using PHP and MySQL.  
+Includes separate dashboards for **Admin**, **Doctor**, and **Patient**.
+
 ---
+
+### ✨ Features
+- 🧑‍⚕️ Doctor Login, Patient Registration & Admin Panel  
+- 📅 Appointment Booking & Scheduling System  
+- 💬 Patient-Doctor Communication Section  
+- 🗂️ Database CRUD Operations (Create, Read, Update, Delete)  
+- 🔐 Secure Login Authentication  
+
+---
+
+### ⚙️ How to Run
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/prithi2004/Doctor-Appointment-System-PHP-MySQL.git
+
 <img width="488" height="200" alt="image" src="https://github.com/user-attachments/assets/35b37272-9748-40c6-b6aa-37a8500493ce" />
 
 
