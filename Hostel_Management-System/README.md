@@ -74,7 +74,7 @@ Place the project folder in your web server's root directory (htdocs if using XA
 Start Apache and MySQL using XAMPP.
 Open your browser and go to:
 perl
-Copy
+Copy  
 Edit
 http://localhost/hostel-management-system/
 🧑‍💻 Author
