@@ -1,7 +1,6 @@
 # 🏨 Hostel Management System
 A web-based Hostel Management System built with **PHP** and **MySQL**. It helps manage room allocations, student registrations, payments, and admin tasks in an organized way.
 ---
-
 ## 🎯 Features
 ### 👨‍🎓 Student Panel
 - Register/Login  
